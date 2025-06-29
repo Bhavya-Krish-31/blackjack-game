@@ -1,19 +1,42 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# ♠️ Blackjack Game
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A fun and engaging web app where you can test your luck and skills with the classic Blackjack card game. Developed using **HTML**, **CSS**, and **JavaScript**.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🚀 Try it now  
+👉 [https://my-water-intake-tracker.netlify.app](https://my-water-intake-tracker.netlify.app)
 
-Happy Coding!
+---
+
+## Features
+
+- Increment your water intake by one glass with a click.
+- Save your daily intake record.
+- Displays the current count and your saved record.
+- Lightweight and responsive design.
+
+---
+
+## 🔧 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Bhavya-Krish-31/basketball-scoreboard.git
+cd basketball-scoreboard
+
+### 2. Run the App
+You can open the app directly in your browser:
+start index.html     # Windows
+# OR
+open index.html      # macOS
+# OR
+just drag index.html into any browser window.
+
