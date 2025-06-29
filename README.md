@@ -3,8 +3,7 @@
 A fun and engaging web app where you can test your luck and skills with the classic Blackjack card game. Developed using **HTML**, **CSS**, and **JavaScript**.
 
 
-## 🚀 Try it now  
-👉 https://blackjackliv.netlify.app/
+## Give it a try 👉 https://blackjackliv.netlify.app/
 
 ---
 
