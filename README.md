@@ -3,16 +3,34 @@
 A fun and engaging web app where you can test your luck and skills with the classic Blackjack card game. Developed using **HTML**, **CSS**, and **JavaScript**.
 
 ---
+
 Give it a try 👉 https://blackjackliv.netlify.app/
 
 ---
 
-## Features
+## 🎮 Features
 
-- Increment your water intake by one glass with a click.
-- Save your daily intake record.
-- Displays the current count and your saved record.
-- Lightweight and responsive design.
+✅ Start Game Button
+Begins a new round and deals initial cards.
+
+🃏 New Card Button
+Allows the player to draw additional cards to increase their total.
+
+🔢 Player’s Current Score Display
+Shows the player’s real-time card total (labelled as “Person”).
+
+🤖 Dealer’s Current Score Display
+Displays the dealer’s card total during the game.
+
+🏆 Instant Win/Loss/Draw Result
+Game immediately announces the outcome after each round.
+
+📱 Responsive Design
+Works smoothly on desktops, tablets, and mobile devices.
+
+🎯 Simple and Clean User Interface
+Easy to understand and play without distractions.
+
 
 ---
 
