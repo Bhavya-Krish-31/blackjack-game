@@ -4,7 +4,7 @@ A fun and engaging web app where you can test your luck and skills with the clas
 
 
 ## 🚀 Try it now  
-👉 [https://my-water-intake-tracker.netlify.app](https://my-water-intake-tracker.netlify.app)
+👉 https://blackjackliv.netlify.app/
 
 ---
 
